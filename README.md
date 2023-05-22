@@ -16,7 +16,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luuanamendes&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luuanamendes&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luuanamendes&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
